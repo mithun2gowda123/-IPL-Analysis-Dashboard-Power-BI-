@@ -65,9 +65,8 @@ Dataset: [deliveries(1).csv](./deliveries(1).csv)
 Power BI Report: [IPL Analysis.pbix](./IPL%20Analysis.pbix)
 
 ## Dashboard Preview
-(Add dashboard screenshots after upload)
 
-![Dashboard Screenshot](./dashboard-screenshot-1.png)
+[![IPL Analysis Dashboard](./dashboard-overview.png)](./dashboard-overview.png)
 
 ## How to Run
 1. Download the `.pbix` file  
